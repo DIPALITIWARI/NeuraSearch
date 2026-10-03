@@ -1,0 +1,11 @@
+myntradataset/images/
+embeddings.pkl
+*.pkl
+__pycache__/
+.env
+.DS_Store
+.ipynb_checkpoints/
+anaconda_projects/
+uploads/
+*.pkl
+myntradataset/images/
